@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1><font color=red>FACEMASH</font></h1>
+<h1><font color=red>FACEMASHhhhhhh</font></h1>
 
 
 <h3>Who's Hotter? Click to Choose</h3>
